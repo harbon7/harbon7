@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @harbon7
+- 👀 I’m interested in art, python development
+- 🌱 I’m currently learning web development 
+- 📫 How to reach me discord: harbon#2222
